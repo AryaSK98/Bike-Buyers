@@ -1,5 +1,5 @@
 ## Bike Buyers - Data Cleaning and Dashboard Creation
-This project focuses on data cleaning and creating dashboard in Excel.
+This is a guided project which focuses on data cleaning and creating dashboard in Excel.
 ### About Dataset
 *	The dataset contains information about customers, gender, income, marital status, education, occupation, age, whether they purchased a bike or not, etc…
 *	Each record is identified by a unique id.
