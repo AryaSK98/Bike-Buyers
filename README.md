@@ -30,3 +30,5 @@ This is a guided project which focuses on data cleaning and creating dashboard i
 *	Resized the charts.
 *	Created slicers for ‘Marital Status’, ‘Region’, ‘Education’ and 'Occupation', and connected it to all the charts.
 *	Added heading and changed the background.
+
+This project was done with the help of Alex Freberg by following his videos in the youtube channel 'Alex The Analyst'. 
